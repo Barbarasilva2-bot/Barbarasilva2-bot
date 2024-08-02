@@ -1,4 +1,4 @@
-## Bem vindos ao meu perfil, estudantes.
+## Bem vindos ao meu perfil, estudantes. 🤍
 
 Meu nome é Bárbara Silva.
 
