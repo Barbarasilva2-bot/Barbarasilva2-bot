@@ -2,11 +2,11 @@
 
 Meu nome é Bárbara Silva.
 
--Sou estudante do Alura.
+- Sou estudante do Alura.
 
--Estou me desenvolvendo na Linguagem do JavaScript.
+- Estou me desenvolvendo na Linguagem do JavaScript.
 
--Utilizo esse espaço para minha organização pessoal e compartilhamento dos meus projetos.
+- Utilizo esse espaço para minha organização pessoal e compartilhamento dos meus projetos.
 
 ### Você pode entrar em contato comigo 📪
 
