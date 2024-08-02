@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem vindos ao meu perfil, estudantes.
 
-<!--
-**Barbarasilva2-bot/Barbarasilva2-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bárbara Silva.
 
-Here are some ideas to get you started:
+-Sou estudante do Alura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na Linguagem do JavaScript.
+
+-Utilizo esse espaço para minha organização pessoal e compartilhamento dos meus projetos.
+
+### Você pode entrar em contato comigo 📪
+
+nikissilvaaa@gmail.com 
+
+@bxsilvaaa_
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
